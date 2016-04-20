@@ -1,0 +1,30 @@
+.container{
+	border: 3px solid;
+	width: 550px;
+	height: 360px;
+	margin-top: 150px;
+	
+} 
+
+#email2,#pass{
+	margin-left: 15px;
+	color: red;
+}
+#btn{
+	margin-left: 100px;
+}
+#titulo{
+	font-family: Home Simpson, cursive;
+	font-style: oblique;
+	font-size: 40px;
+	margin-left: 85px;
+}
+
+#em, #pass2{
+	color:#039be5;
+	font-size: 17px;
+}
+#i-pass, #i-email{
+	margin-right: 10px;
+}
+
